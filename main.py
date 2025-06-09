@@ -19,7 +19,9 @@ def main():
             
         screen.fill("black")
         player.draw(screen)
+        player.update(dt)
         pygame.display.flip()
+        
         
         poll_rate = clock.tick(60)
         dt = poll_rate/1000.0
