@@ -1,3 +1,3 @@
 # asteroids
 
-Asteroids Game Project to Practice OOP
+Asteroids Project to Practice OOP
