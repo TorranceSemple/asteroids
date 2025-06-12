@@ -1,3 +1,3 @@
 # asteroids
 
-Asteroids Project to Practice OOP
+Asteroids Project to Practice OOP in python3
